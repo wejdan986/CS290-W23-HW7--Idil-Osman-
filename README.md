@@ -3,3 +3,4 @@ CS290 assignment 7
 Idil Mihamed
 Lulu Altuwijri
 Maryam Mohamed
+Ghada Khaled
